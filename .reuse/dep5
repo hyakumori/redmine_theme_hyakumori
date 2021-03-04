@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: redmine_theme_hyakumori
+Upstream-Contact: Hyakumori Ltd. <info@hyakumori.com>
+Source: https://github.com/hyakumori/redmine_theme_hyakumori
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
